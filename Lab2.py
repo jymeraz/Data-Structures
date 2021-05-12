@@ -1,10 +1,5 @@
 """
 Course: CS 2302 
-Author: Janeth Meraz
-Assignment: Lab 2
-Instructor: Olac Fuentes
-T.A.: Oscar Galindo
-I.A.: Seth Flores
 Date of last modification: 7/01/2020 
 Purpose: Implement different algorithms to sort Lists and evaluate 
     their respective running times with different inputs. The different inputs 
