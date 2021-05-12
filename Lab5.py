@@ -1,10 +1,5 @@
 """
 Course: CS 2302 
-Author: Janeth Meraz
-Assignment: Lab 5
-Instructor: Olac Fuentes
-T.A.: Oscar Galindo
-I.A.: Seth Flores
 Date of last modification: July 28, 2020
 Purpose: Implement graph algorithms in order to solve problems for real life 
     examples using text files as a data source. The graph algorithms include 
