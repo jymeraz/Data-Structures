@@ -1,10 +1,5 @@
 """
 Course: CS 2302 
-Author: Janeth Meraz
-Assignment: Lab 4
-Instructor: Olac Fuentes
-T.A.: Oscar Galindo
-I.A.: Seth Flores
 Date of last modification: July 22, 2020
 Purpose: Implement a hash table and binary search tree 
     in order to retrieve all the anagrams of a large set of English words. 
