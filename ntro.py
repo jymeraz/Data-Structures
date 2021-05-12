@@ -1,5 +1,4 @@
 # Introduction to Python exercise
-# Rename this file to lastname_firstname.py before submitting
 import numpy as np
 
 # Exercise 1
