@@ -1,10 +1,5 @@
 """
 Course: CS 2302 
-Author: Janeth Meraz
-Assignment: Lab 1
-Instructor: Olac Fuentes
-T.A.: Oscar Galindo
-I.A.: Seth Flores
 Date of last modification: June 19, 2020
 Purpose: Implement different operations through loops and slicing independently 
     in order to analyze and gain a better understanding of the relative 
