@@ -1,10 +1,5 @@
 """
 Course: CS 2302 
-Author: Janeth Meraz
-Assignment: Lab 3
-Instructor: Olac Fuentes
-T.A.: Oscar Galindo
-I.A.: Seth Flores
 Date of last modification: 07/08/2020 
 Purpose: Implement bst sort and btree sort algorithms to sort Lists and evaluate 
     their respective running times against other sorting algorithms. 
