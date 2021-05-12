@@ -1,5 +1,3 @@
-# Starter code for hash table exercise 1
-# Rename this program as lastname_firstname_htc_ex1.py and submit it 
 
 import hash_table_chain as htc
 
