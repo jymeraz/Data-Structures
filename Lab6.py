@@ -1,10 +1,5 @@
 """
 Course: CS 2302 
-Author: Janeth Meraz
-Assignment: Lab 6
-Instructor: Olac Fuentes
-T.A.: Oscar Galindo
-I.A.: Seth Flores
 Date of last modification: August 2, 2020
 Purpose: Implement dynamic programming to determine the similarity of protein sequences. 
     In addition, edit the given dynamic programming function by choosing the neighbor 
